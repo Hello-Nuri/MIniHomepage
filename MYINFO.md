@@ -2,4 +2,6 @@
 # studying english
 # creating Fashion stuffs.
 
-# MBTI INTJ / INFJ
+# MBTI : INTJ / INFJ
+
+# Blood type : O
