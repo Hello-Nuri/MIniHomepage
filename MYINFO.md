@@ -5,3 +5,5 @@
 # MBTI : INTJ / INFJ
 
 # Blood type : O
+
+# 수정테스트...
