@@ -37,3 +37,5 @@ print( a + b )
 [네이버](https://naver.com)
 [이미지가 없을 때 표시할 텍스트]
 
+## 서비스 소개 페이지 추가
+- about.md 추가
