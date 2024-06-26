@@ -48,3 +48,6 @@ print( a + b )
 
 # 푸터 추가
 - footer.md 추가
+
+# 구매 페이지 추가
+- checkout.md
